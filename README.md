@@ -4,3 +4,5 @@ The API provider: http://www.OpenWeatherMap.org
 ## Screenshot
 <img src="https://github.com/001tarun/javascript-weatherapp/blob/main/Screenshot%20(2).png">
 
+CLICK HERE
+https://weatherappjavascriptapi.on.drv.tw/www.Weather-app/Index2.html
